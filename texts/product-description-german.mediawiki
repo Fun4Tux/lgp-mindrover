@@ -28,11 +28,11 @@
 </tr>
 <tr>
 <td>Demoversion</td>
-<td><a href="http://demos.fun4tux.ch/mindrover/">Demo f&uuml;r MindRover</a></td>
+<td><a href="http://demofiles.linuxgamepublishing.com/mindrover/">Demo f&uuml;r MindRover</a></td>
 </tr>
 <tr>
 <td>Updates</td>
-<td><a href="http://updates.fun4tux.ch/mindrover/">Updates f&uuml;r MindRover</a></td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/mindrover/">Updates f&uuml;r MindRover</a></td>
 </tr>
 <tr>
 <td>Zustand<br /></td>
