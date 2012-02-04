@@ -1,0 +1,83 @@
+==Preview==
+<p>Das in den USA mehrfach preisgekr&ouml;nte Game versteht sich als Lernprogramm, Simulation und Strategieabenteuer.</p>
+
+==Text==
+<p><strong><strong><strong><strong>Das Spiel</strong></strong></strong><br /></strong></p>
+<p>Das in den USA mehrfach preisgekr&ouml;nte Game versteht sich als Lernprogramm, Simulation und Strategieabenteuer.</p>
+<p><br />Das Besondere bei "Mindrover" liegt darin, dass die virtuell gebauten Roboter in den Wettk&auml;mpfen nicht direkt zu steuern sind, sondern die Aufgaben gewisserma&szlig;en "ganz alleine" l&ouml;sen. Das geschieht mit Hilfe der am PC zusammengestellten Technik und eingepflanzten Intelligenz. Unterschiedliche Disziplinen und Szenarien warten auf den technischen Fuhrpark, so etwa Wettrennen oder Labyrinth. <br />Soll die Eigenentwicklung sich mit R&auml;dern, Ketten oder per Hovercraft fortbewegen? Welche Sensoren ergeben ein funktionierendes Gehirn? Das zeigt sich, sobald die Roboter in einer 3D-Arena gegen andere Maschinen antreten.</p>
+<p>Das Spielsystem von "Mindrover" wurde in den USA beispielsweise zum "Spiel des Jahres" im Bereich Lernen von den "Game Industry News" gek&uuml;rt.<br /><br /></p>
+<hr />
+<p><strong>Allgemeine Informationen zum Spiel</strong><br /></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Altersfreigabe<br /></td>
+<td>0+</td>
+</tr>
+<tr>
+<td>Sprache Verpackung<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Handbuch<br /></td>
+<td>Englisch<br /></td>
+</tr>
+<tr>
+<td>Sprache Spiel<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/mindrover/">Demo f&uuml;r MindRover</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/mindrover/">Updates f&uuml;r MindRover</a></td>
+</tr>
+<tr>
+<td>Zustand<br /></td>
+<td>fabrikneu<br /></td>
+</tr>
+<tr>
+<td>Lieferumfang<br /></td>
+<td>CD-Rom und Anleitung in DVD-H&uuml;lle</td>
+</tr>
+</tbody>
+</table>
+<p><strong><strong><br /></strong></strong></p>
+<hr />
+<p><strong>Minimale Systemanforderungen</strong><br /></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Prozessor<br /></td>
+<td>200 MHz x86 Processor<br /></td>
+</tr>
+<tr>
+<td>Grafikkarte<br /></td>
+<td>3D-Grafikkarte mit 8MB Ram und korrekt installierten, funktionsf&auml;higen Treibern<br /></td>
+</tr>
+<tr>
+<td>Hauptspeicher<br /></td>
+<td>64 MB</td>
+</tr>
+<tr>
+<td>Festplattenspeicher<br /></td>
+<td>100 MB</td>
+</tr>
+<tr>
+<td>Soundkarte<br /></td>
+<td>ALSA oder OSS kompatibel<br /></td>
+</tr>
+<tr>
+<td>Laufwerk<br /></td>
+<td>4 x CD Rom<br /></td>
+</tr>
+<tr>
+<td>Betriebssystem<br /></td>
+<td>
+<p>GNU/Linux x86 System (x64/amd64 Systeme funktionieren nur mit einem 32 bit Emulationslayer), 2.2.x oder neuerer Linuxkernel, glibc-2.1+, X-Windows (XFree86 3.3.x oder neuer)</p>
+</td>
+</tr>
+</tbody>
+</table>
